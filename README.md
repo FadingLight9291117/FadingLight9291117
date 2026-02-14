@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FadingLight9291117
-- 👀 I’m interested in AI agent, HarmonyOS develop.
+- 👀 I’m interested in HarmonyOS/ArkTs developing, AI agent.
 - 🌱 I’m currently learning AI agent.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
